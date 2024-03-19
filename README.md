@@ -1,16 +1,35 @@
+
 ### Hi there 👋
 
-<!--
-**cankromo/cankromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is Can Kankılıç 
 
-Here are some ideas to get you started:
+**Welcome to my GitHub profile!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Software Engineering student** with a years of experience in **Asset Manangment**. I'm passionate about **AI and ML Algorithms**.
+
+In Software Department, Ankara Yıldırım Beyazıt University
+
+This profile showcases some of my projects and provides a glimpse into my technical skills. 
+
+**Key Skills:**
+
+* Python
+* C++
+* English
+* Spanish 
+* Piano
+* Asset Manangment 
+* Database manangment
+
+
+**Projects:**
+
+* **LAS** - **BLAS: QR code supported user tracking system with an administrative interface, shows the monthly, weekly and hourly user numbers in the location statistically and visually to the administrator.** https://github.com/cankromo/LAS
+
+
+**Get in Touch:**
+
+*  **Email:** **cankankilic@outlook.com**
+*  **LinkedIn:** **https://www.linkedin.com/in/canknk/**
+
+**Feel free to reach out if you have any questions or want to collaborate on a project!**
