@@ -1,9 +1,8 @@
-
-# Hi there 👋
+**Welcome to my GitHub profile!**
 
 ## This is Can Kankılıç 
 
-**Welcome to my GitHub profile!**
+
 
 I am a **Software Engineering student** with a years of experience in **Asset Manangment**. I'm passionate about **AI and ML Algorithms**.
 
